@@ -3,7 +3,7 @@ Call By Value:
 The call by value method of passing arguments to a function copies the actual value of an argument into the function. C programming uses call by value to pass arguments.
 It means the code within a function cannot alter the arguments used to call the function.
 
-![image](https://user-images.githubusercontent.com/127819492/234401365-db350637-f013-4213-9247-89d6bdf935d5.png)
+![image](https://user-images.githubusercontent.com/127819492/234473313-853d0307-6936-46a6-bd35-9919fec38c39.png)
 
 
 Actual parameters: The parameters that appear in function calls. Formal parameters: The parameters that appear in function declarations.
